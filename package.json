@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rezaali/mhf.js.git"
+    "url": "git+https://github.com/YCAMInterlab/mhf.js.git"
   },
   "keywords": [
     "Math",
@@ -21,7 +21,7 @@
   "author": "Syed Reza Ali <syed.reza.ali@gmail.com> (http://www.syedrezaali.com/)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/rezaali/mhf.js/issues"
+    "url": "https://github.com/YCAMInterlab/mhf.js/issues"
   },
-  "homepage": "https://github.com/rezaali/mhf.js#readme"
+  "homepage": "https://github.com/YCAMInterlab/mhf.js#readme"
 }
