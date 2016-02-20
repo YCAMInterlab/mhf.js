@@ -1,6 +1,6 @@
 {
   "name": "mhf",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Math Helper Functions",
   "main": "index.js",
   "scripts": {
