@@ -1,7 +1,7 @@
 ## Math Helper Function in Javascript
 
 ## Synopsis
-mhf.js is a collection of math helper function. This minimal library provides functions such as gaussian, map, clamp, and limit3.
+mhf.js is a collection of math helper functions. This minimal library provides functions such as gaussian, map, clamp, and limit3.
 
 ## Code Example
 ```js
